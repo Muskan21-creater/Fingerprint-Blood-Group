@@ -1,4 +1,8 @@
+## Author
+Muskan Ahamed
+
 Fingerprint Blood Group Prediction using Deep Learning
+
 
 Tech Stack:
 - Python
